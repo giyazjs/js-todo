@@ -1,0 +1,19 @@
+.todo-container {
+    width: 500px;
+    margin: 50px auto;
+}
+
+.all {
+    background: #F0FFFF;
+    padding: 5px  10px 10px 10px;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 7px;
+    color: #2F4F4F;
+    font-size: 40px;
+    margin: 20px 28%;
+}
+
+
+.checkedText {
+    text-decoration: line-through;
+}
